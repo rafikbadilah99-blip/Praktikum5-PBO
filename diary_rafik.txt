@@ -1,0 +1,7 @@
+
+[01-10-2026] - Hari ini belajar Java File I/O di lab komputer.
+[01-10-2026] - Mencoba fitur append agar catatan lama tidak tertimpa.
+[01-10-2026] - Hari ini praktikum sampe maghrib.
+[02-10-2026] - Makan nasi goreng menikmati banget sampe lupa makan kerupuknya.
+[02-10-2026] - Hari ini Jum'at kelas pagi sampe sore.
+[02-10-2026] - DAA presentasi dadakan, bahas alur project.
